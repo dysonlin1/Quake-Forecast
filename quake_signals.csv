@@ -1,6 +1,7 @@
-ID,Duration,Height,Time,Location,Magnitude
-2,4,6,2,Philippines,6.5
-3,1,3.5,1,Malawi,5.2
-4,2,3,2,Indonesia,5.2
-5,1,2,1,Alaska,5.3
-6,1,3,1,Japan,5.0
+ID,Duration,Height,Time,USGS Quake Time,Location,Magnitude
+1,4,6,2,2017-02-10 22:03:43 UTC+8,Philippines,6.5
+2,1,3.5,1,2017-02-11 00:43:38 UTC+8,Malawi,5.2
+3,2,3,2,2017-02-13 11:08:34 UTC+8,Indonesia,5.2
+4,1,2,1,2017-02-13 15:17:12 UTC+8,Alaska,5.3
+5,1,3,1,2017-02-15 00:26:19 UTC+8,Japan,5
+6,2,3,1,2017-02-16 03:47:08 UTC+8,Indonesia,5.6
