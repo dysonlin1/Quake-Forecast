@@ -1,7 +1,7 @@
 # coding: utf-8
 # Machine Learning: Quake Forecast
 import pandas as pd
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.linear_model import LinearRegression
 
 train = pd.read_csv('quake_signals.csv')
 print(train)
