@@ -13,7 +13,7 @@ print(data)
 target = train['Time']
 print(target)
 
-model = RandomForestClassifier()
+model = LinearRegression()
 model.fit(data, target)
 quake_time = model.predict([[2, 2.3]])
 print(quake_time)
